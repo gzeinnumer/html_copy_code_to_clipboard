@@ -2,6 +2,12 @@
  
 [Source](https://www.roboleary.net/2022/01/13/copy-code-to-clipboard-blog.html)
 
+```
+&lt; -> <
+
+&gt; -> >
+```
+
 ```html
 <!DOCTYPE html>
 <html>
