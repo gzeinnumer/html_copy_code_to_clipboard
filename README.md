@@ -3,10 +3,13 @@
 [Source](https://www.roboleary.net/2022/01/13/copy-code-to-clipboard-blog.html)
 
 ```
-&lt; -> <
+&lt; ... <
 
-&gt; -> >
+&gt; ... >
 ```
+
+[Entities Html](https://www.htmlhelp.com/reference/html40/entities/special.html)
+
 
 ```html
 <!DOCTYPE html>
